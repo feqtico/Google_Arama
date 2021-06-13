@@ -11,3 +11,5 @@ cd Google_Arama
 
 python3 google_arama.py
 
+Gerekli Modüller:
+googlesearch
