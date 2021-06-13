@@ -5,6 +5,8 @@ Programın kullanımında tüm sorumluluk kullanıcıya aittir.
 
 KULLANIM:
 
+pip install googlesearch-python
+
 git clone https://github.com/feqtico/Google_Arama.git
 
 cd Google_Arama
@@ -13,3 +15,4 @@ python3 google_arama.py
 --------------------
 Gerekli Modüller:
 googlesearch
+
